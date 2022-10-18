@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252078864511",
+    "project_id": "chatapp-d65cb",
+    "storage_bucket": "chatapp-d65cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252078864511:android:757747642b2c6f850e274a",
+        "android_client_info": {
+          "package_name": "com.tulsi.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252078864511-5vv8qj0co12doum9ef63243hpdn7fd5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Pfs5WiM8Tb10zStOaNu5D-oKEAmfLCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252078864511-5vv8qj0co12doum9ef63243hpdn7fd5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
